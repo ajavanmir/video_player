@@ -142,8 +142,6 @@ For inquiries or collaboration opportunities, contact the author directly.
 ## Contact
 - **Author**: Amir Javanmir
 - **Release Date**: March 26, 2025
-- **Email**: [Insert your email here]
-- **Website**: [Insert your website here]
 
 ---
 
